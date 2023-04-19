@@ -3,6 +3,8 @@
 #
 
 list(APPEND FLUTTER_PLUGIN_LIST
+  file_selector_linux
+  flutter_document_scan_sdk
 )
 
 list(APPEND FLUTTER_FFI_PLUGIN_LIST
